@@ -31,6 +31,6 @@ I use docker-compose as an orchestrator. To run these containers:
   - Username : user
   - Password : test
 
-* Open website:   http://0.0.0.0:8001  
+* Open website:   http://0.0.0.0:8001
 
 That's it!
